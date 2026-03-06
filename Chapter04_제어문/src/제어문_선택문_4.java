@@ -10,7 +10,7 @@ public class 제어문_선택문_4 {
 		System.out.print("연산자(+,-,*,/):");
 		String op = sc.next();
 		
-		System.out.print("두전째 정수:");
+		System.out.print("두번째 정수:");
 		int num2 = sc.nextInt();
 		
 		switch(op) {
