@@ -11,7 +11,7 @@ public class 이항연산자_산술연산자_1 {
 		System.out.print("수학점수를 입력해주세요:");
 		int math = sc.nextInt();
 		int total = kor + eng + math;
-		double avg = total / 0.0;
+		double avg = total / 3.0;
 		System.out.print("총점:"+total);
 		System.out.printf(" 평균:%.2f\n",avg);
 		System.out.println(5%0.0);
