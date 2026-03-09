@@ -17,10 +17,10 @@ public class 연산자_연습문제 {
 		int result5 = (8+2)*3;
 		//7번
 		int result6 = 10;
-		result6 ++;
+		result6++;
 		//8번
 		int result7 = 10;
-		result7 --;
+		result7--;
 		//9번
 		int num1 = 7;
 		boolean result8 = num1 > 5;
