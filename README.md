@@ -1,4 +1,5 @@
-# 2026-03-03 JAVA AWS 풀스택과정 수강 시작
+## 2026-03-03 
+# JAVA AWS 풀스택과정 수강 시작
 # Starting the JAVA AWS Full-stack Course
 # JAVA AWS フルスタック課程の受講開始
 
