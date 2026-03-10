@@ -1,7 +1,7 @@
 ## 2026-03-03 
-# JAVA AWS 풀스택과정 수강 시작
-# Starting the JAVA AWS Full-stack Course
-# JAVA AWS フルスタック課程の受講開始
+#![Korea](https://img.shields.io) JAVA AWS 풀스택과정 수강 시작
+#![USA](https://img.shields.io) Starting the JAVA AWS Full-stack Course
+#![Japan](https://img.shields.io) JAVA AWS フルスタック課程の受講開始
 
 
 ### 2026-03-03
