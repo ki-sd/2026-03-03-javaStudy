@@ -38,6 +38,9 @@ public class 배열_11 {
 		int week = total%7;
 		
 		System.out.println("입력된 날의 요일:"+strWeek[week]);
+		
+		//Calender
+		
 	}
 
 }
