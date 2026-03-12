@@ -51,3 +51,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;">제어문 마무리 및 예제 풀이
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;">Completion of Control Statements & Exercises
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;">制御文のまとめ、及び演習問題
+
+### 2026-03-12
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;">데이터관리 (배열) 학습 및 예제풀이
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;">Study Data Management (Array) & Exercises
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;">データ管理（配列）、演習問題
