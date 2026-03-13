@@ -56,3 +56,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;">데이터관리 (배열) 학습 및 예제풀이
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;">Study Data Management (Array) & Exercises
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;">データ管理（配列）、演習問題
+
+### 2026-03-13
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> 데이터 관리(배열) 응용 학습: 달력 생성 로직 및 영화 데이터 검색기 구현
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> Applied Learning of Data Management (Array): Calendar Generation & Movie Search System
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> 配列の応用学習：カレンダー作成、映画情報検索プログラムの実装
