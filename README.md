@@ -76,3 +76,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **객체지향(OOP)**: 객체지향 개념 및 변수 종류(인스턴스/클래스/지역 변수) 구분, 변수 초기화 및 객체 활용 실습
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **OOP Basics**: Understanding OOP concepts, distinguishing variable types (Instance/Class/Local), and practicing variable initialization & object usage
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **オブジェクト指向(OOP)**: OOPの概念および変数の種類(インスタンス/クラス/ローカル変数)の区別、変数の初期化とオブジェクト活用の実習
+
+### 2026-03-19
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 생성자(`Constructor`)를 통한 객체 초기화, 인스턴스 생성 및 메모리 할당, `CallByValue` vs `CallByReference` 개념 정립
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Object initialization via Constructors, Instance allocation, and distinguishing `CallByValue` vs `CallByReference`
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: コンストラクタによるオブジェクト初期化、インスタンス生成、`CallByValue`と`CallByReference`の概念把握
