@@ -85,3 +85,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 응용**: 접근 지정자(private, public 등) 및 제어자 활용, `this` 키워드를 통한 인스턴스 참조 이해
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Application**: Mastering Access Modifiers, Modifiers, and `this` keyword; Building a Music Information System using crawled data
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java応用**: アクセス修飾子、修飾子、`this`キーワードの理解。クローリングデータを活用した音楽情報システムの構築
+
+### 2026-03-23
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **객체지향 심화**: 상속(Inheritance)과 포함(Composition)을 통한 코드 재사용, 메서드 재정의(Overriding) 실습
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Advanced OOP**: Code reuse via Inheritance & Composition, practicing Method Overriding
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **オブジェクト指向深化**: 継承(Inheritance)と包含(Composition)によるコード再利用、メソッド再定義(Overriding)の実習
