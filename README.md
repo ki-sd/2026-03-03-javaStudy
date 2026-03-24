@@ -90,3 +90,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **객체지향 심화**: 상속(Inheritance)과 포함(Composition)을 통한 코드 재사용, 메서드 재정의(Overriding) 실습
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Advanced OOP**: Code reuse via Inheritance & Composition, practicing Method Overriding
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **オブジェクト指向深化**: 継承(Inheritance)と包含(Composition)によるコード再利用、メソッド再定義(Overriding)の実習
+
+### 2026-03-24
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **객체지향 심화**: 다형성(Polymorphism) 개념 완성과 추상 클래스(Abstract Class)를 통한 강제성 부여 및 설계 기법 학습
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Advanced OOP**: Finalizing Polymorphism and mastering Abstract Classes for design enforcement and code structure
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **オブジェクト指向深化**: 多態性(Polymorphism)の完成と、抽象クラス(Abstract Class)による設計技法および強制実装の学習
