@@ -95,3 +95,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **객체지향 심화**: 다형성(Polymorphism) 개념 완성과 추상 클래스(Abstract Class)를 통한 강제성 부여 및 설계 기법 학습
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Advanced OOP**: Finalizing Polymorphism and mastering Abstract Classes for design enforcement and code structure
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **オブジェクト指向深化**: 多態性(Polymorphism)の完成と、抽象クラス(Abstract Class)による設計技法および強制実装の学習
+
+### 2026-03-25
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 인터페이스(Interface)를 통한 다중 구현 및 규격 설계, 예외 처리(try-catch)를 통한 안정적 프로그램 제어
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Designing specifications via Interfaces and implementing robust program control through Exception Handling (try-catch)
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: インターフェースによる多重実装と設計、例外処理(try-catch)による安定的なプログラム制御の学習
