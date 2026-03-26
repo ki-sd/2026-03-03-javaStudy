@@ -100,3 +100,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 인터페이스(Interface)를 통한 다중 구현 및 규격 설계, 예외 처리(try-catch)를 통한 안정적 프로그램 제어
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Designing specifications via Interfaces and implementing robust program control through Exception Handling (try-catch)
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: インターフェースによる多重実装と設計、例外処理(try-catch)による安定的なプログラム制御の学習
+
+### 2026-03-26
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 예외 처리 메커니즘(`try~catch`)의 심화 이해 및 자원 해제를 위한 `finally` 블록 활용 실습
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Advanced understanding of Exception Handling and practicing `finally` blocks for resource cleanup
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: 例外処理メカニズム(`try~catch`)の深い理解およびリソース解放のための`finally`ブロック活用の実習
