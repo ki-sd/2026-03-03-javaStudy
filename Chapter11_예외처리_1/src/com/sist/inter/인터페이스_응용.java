@@ -8,7 +8,45 @@ class MoleGame implements Game {
 	@Override
 	public void start() {
 		// TODO Auto-generated method stub
-		
+		Scanner scan=new Scanner(System.in);
+		Random rand=new Random(); // 난수 발생 1~3 => 두더지
+		// 점수 계산 
+		int score=0;
+		// 게임 => 5번 : 1~3 => 선택 입력 => 
+		System.out.println("👾 두더지 게임 시작!!");
+		System.out.println("1~3사이의 두더지가 나오면 위치를 맞추세요");
+		for(int i=1;i<=5;i++)
+		{
+			int mole=rand.nextInt(3)+1; // nextInt(3) => 0~2
+			// => 1~3            --- 3-1 => 0~2
+			System.out.println("\n[라운드 "+i+"]");
+			System.out.println("두더지가 나타났다!(1~3):");
+			long startTime=System.currentTimeMillis();
+			// 시작 시간 
+			int input=scan.nextInt();
+			long endTime=System.currentTimeMillis();
+			
+			// 걸린 시간 
+			long time=endTime-startTime;
+			
+			if(time>2000)
+			{
+				System.out.println("⏰ 너무 느림! 실패");
+				continue; // i++ 
+			}
+			
+			if(input==mole)
+			{
+				System.out.println("🍾 정답!!");
+				score++;
+			}
+			else
+			{
+				System.out.println("😖 오답!!");
+			}
+			
+		}
+		System.out.println("🎶 당신의 점수는 "+(score*20)+"점입니다");
 	}
 	
 }
