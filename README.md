@@ -110,3 +110,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 예외 처리 마무리 - `try-with-resources`를 통한 자원 자동 해제, 예외 강제 발생(`throw`), 사용자 정의 예외 구현
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Finalizing Exception Handling - Auto-resource management via `try-with-resources`, `throw` mechanism, and Custom Exceptions
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: 例外処理の総まとめ - `try-with-resources`によるリソースの自動解放、例外の強制発生(`throw`)、ユーザー定義例外の実装
+
+### 2026-03-30
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 표준 API**: `java.lang` 패키지(Object, String, Math) 학습 및 파일 입출력을 활용한 사원 관리 프로그램 실습
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Standard API**: Mastering `java.lang` (Object, String, Math) and building an Employee Management System using file I/O
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java標準API**: `java.lang`パッケージ(Object, String, Math)の学習およびファイル入出力を活用した社員管理プログラムの実装
