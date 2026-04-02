@@ -45,3 +45,4 @@
 | 날짜 | 학습 내용 (KR / US / JP) |
 | :--- | :--- |
 | **04-01** | <ul><li><img src="https://flagcdn.com/w20/kr.png" width="20"> **자바 고급**: 정규식 패턴 매칭, 리플렉션 및 어노테이션을 활용한 메타 프로그래밍 설계</li><li><img src="https://flagcdn.com/w20/us.png" width="20"> **Advanced Java**: Regex, Reflection, and Meta-programming design using Annotations</li><li><img src="https://flagcdn.com/w20/jp.png" width="20"> **Java上級**: 正規表現、リフレクションおよびア노テーションを活用したメタプログラミング</li></ul> |
+| **04-02** | <ul><li><img src="https://flagcdn.com/w20/kr.png" width="20"> **자바 고급**: 자료구조 기초 - `ArrayList` 활용 및 제네릭(Generics)을 통한 타입 안정성 확보 학습</li><li><img src="https://flagcdn.com/w20/us.png" width="20"> **Advanced Java**: Data Structures - Using `ArrayList` and ensuring type safety with Generics</li><li><img src="https://flagcdn.com/w20/jp.png" width="20"> **Java上級**: 資料構造の基礎 - `ArrayList`の活用およびジェネリックス(Generics)による型安全性の確保</li></ul> |
