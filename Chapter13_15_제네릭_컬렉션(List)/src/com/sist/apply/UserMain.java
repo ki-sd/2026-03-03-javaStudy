@@ -1,5 +1,22 @@
 package com.sist.apply;
-
+//=> 한개로 묶어서 제어 
+//1 3 4 6 7 1 3  9  10 4 4 5 7 7 9 10 int[] arr
+/*
+*   class A extends Object
+*   {
+*     finalize() clone() toString hashCode()
+*     public void display()
+*   }
+*   
+*   A o=new A();
+*   
+*   class A
+*   class B extends A
+*   
+*   A a=new B()
+*   
+*   
+*/
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
