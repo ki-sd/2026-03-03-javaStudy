@@ -68,3 +68,4 @@ public class Collection_total {
 //        }
         
 	}
+}

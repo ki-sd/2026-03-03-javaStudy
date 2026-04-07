@@ -26,3 +26,4 @@ public class Collection_total_1 {
         	System.out.println(s);
         }
 	}
+}

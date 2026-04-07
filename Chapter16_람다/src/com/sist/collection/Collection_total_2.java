@@ -37,3 +37,4 @@ public class Collection_total_2 {
         
         // List 전용 
 	}
+}
