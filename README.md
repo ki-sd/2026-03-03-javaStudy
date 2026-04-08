@@ -1,7 +1,7 @@
 ## 2026-03-03 
-# <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> JAVA AWS 풀스택과정 수강 시작<br>
-# <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> Starting the JAVA AWS Full-stack Course<br>
-# <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> JAVA AWS フルスタック課程の受講開始<br>
+# <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> JAVA AWS CI/CD 풀스택과정 - JAVA<br>
+# <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> JAVA AWS CI/CD Full-stack Course - JAVA<br>
+# <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> JAVA AWS CI/CD フルスタック課程 - JAVA<br>
 
 <br>
 <br>
