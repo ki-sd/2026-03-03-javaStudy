@@ -5,7 +5,7 @@
 <br>
 <br>
 
-* **Progress** : <img src="https://img.shields.io/badge/Progress-80%25-red?style=flat-square" style="vertical-align: middle;">
+* **Progress** : <img src="https://img.shields.io/badge/Progress-80%25-yellow?style=flat-square" style="vertical-align: middle;">
 * **Language** : <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="vertical-align: middle;">
 * **IDE** : <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" style="vertical-align: middle;">
 
